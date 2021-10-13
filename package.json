@@ -1,0 +1,14 @@
+{
+  "name": "loginautomation",
+  "version": "1.0.0",
+  "description": "simple automation for Teacode",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sebastian besinski",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}
